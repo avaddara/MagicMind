@@ -1,0 +1,2 @@
+# MagicMind
+Brain tecniques
